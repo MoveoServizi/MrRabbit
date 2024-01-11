@@ -1,0 +1,2 @@
+udp_comunication:unitree_legged_msgs
+-DCATKIN_DEVEL_PREFIX=/home/moveoservizi/unitree/mrRabbit/devel -DCMAKE_INSTALL_PREFIX=/home/moveoservizi/unitree/mrRabbit/install -G Unix Makefiles

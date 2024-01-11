@@ -1,0 +1,8 @@
+prefix=/home/moveoservizi/unitree/mrRabbit/devel
+
+Name: udp_comunication
+Description: Description of udp_comunication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
